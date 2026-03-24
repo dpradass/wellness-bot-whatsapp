@@ -1,4 +1,4 @@
-unction enviarWellnessTest() {
+function enviarWellnessTest() {
  
   // ← CAMBIA ESTO: pon el link de tu Google Form
   const LINK_FORMULARIO = "https://forms.gle/TU_LINK_AQUI";
