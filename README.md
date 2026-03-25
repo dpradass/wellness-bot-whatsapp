@@ -90,6 +90,8 @@ En Apps Script → icono del reloj **(Activadores)** → **Añadir activador**:
 
 Guarda y listo. **Ya no tienes que hacer nada más.**
 
+(Estos valores se pueden cambiar en función de tus necesidades)
+
 ---
 
 ## Resultado
