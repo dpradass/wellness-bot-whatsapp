@@ -96,8 +96,6 @@ Guarda y listo. **Ya no tienes que hacer nada más.**
 
 - 📲 Cada jugador recibe el formulario por privado cada martes
 - 📊 Las respuestas se guardan solas en Google Sheets
-- 🟢 Verde / 🟡 Amarillo / 🔴 Rojo según el estado de cada jugador
-- 📋 Tabla resumen con media histórica por jugador
 
 ---
 
